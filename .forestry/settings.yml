@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: https://github.com/tatiana-perry/howtographql/tree/master/content
-  label: Conent Pages
+  path: tree/master/content
+  label: Content
   create: all
   match: "**/*"
 upload_dir: uploads
