@@ -1,0 +1,2 @@
+webpackJsonp([82],{"./node_modules/json-loader/index.js!./.cache/json/graphql-java-6-more-mutations.json":function(o,a){o.exports={pathContext:{slug:"/graphql-java/6-more-mutations/"}}}});
+//# sourceMappingURL=path---graphql-java-6-more-mutations-b3dd24b271c3cdb7abc8.js.map

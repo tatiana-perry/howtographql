@@ -1,0 +1,2 @@
+webpackJsonp([80],{"./node_modules/json-loader/index.js!./.cache/json/graphql-java-8-subscriptions.json":function(s,o){s.exports={pathContext:{slug:"/graphql-java/8-subscriptions/"}}}});
+//# sourceMappingURL=path---graphql-java-8-subscriptions-d72b6c17a8c0bc0d449f.js.map

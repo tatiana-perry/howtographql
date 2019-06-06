@@ -1,0 +1,2 @@
+webpackJsonp([42],{"./node_modules/json-loader/index.js!./.cache/json/graphql-scala-5-custom-scalars.json":function(s,a){s.exports={pathContext:{slug:"/graphql-scala/5-custom_scalars/"}}}});
+//# sourceMappingURL=path---graphql-scala-5-custom-scalars-c01891828271f0472d3e.js.map

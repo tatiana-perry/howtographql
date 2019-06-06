@@ -1,0 +1,2 @@
+webpackJsonp([56],{"./node_modules/json-loader/index.js!./.cache/json/graphql-ruby-1-getting-started.json":function(t,e){t.exports={pathContext:{slug:"/graphql-ruby/1-getting-started/"}}}});
+//# sourceMappingURL=path---graphql-ruby-1-getting-started-a902a0b84cd075239e29.js.map

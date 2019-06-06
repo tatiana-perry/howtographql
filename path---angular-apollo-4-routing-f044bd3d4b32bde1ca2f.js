@@ -1,0 +1,2 @@
+webpackJsonp([116],{"./node_modules/json-loader/index.js!./.cache/json/angular-apollo-4-routing.json":function(o,n){o.exports={pathContext:{slug:"/angular-apollo/4-routing/"}}}});
+//# sourceMappingURL=path---angular-apollo-4-routing-f044bd3d4b32bde1ca2f.js.map

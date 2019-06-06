@@ -1,0 +1,2 @@
+webpackJsonp([54],{"./node_modules/json-loader/index.js!./.cache/json/graphql-ruby-3-mutations.json":function(o,n){o.exports={pathContext:{slug:"/graphql-ruby/3-mutations/"}}}});
+//# sourceMappingURL=path---graphql-ruby-3-mutations-4a27d000bb0943e19a2d.js.map

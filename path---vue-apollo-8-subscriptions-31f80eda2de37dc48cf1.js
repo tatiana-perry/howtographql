@@ -1,0 +1,2 @@
+webpackJsonp([4],{"./node_modules/json-loader/index.js!./.cache/json/vue-apollo-8-subscriptions.json":function(o,s){o.exports={pathContext:{slug:"/vue-apollo/8-subscriptions/"}}}});
+//# sourceMappingURL=path---vue-apollo-8-subscriptions-31f80eda2de37dc48cf1.js.map

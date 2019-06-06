@@ -1,0 +1,2 @@
+webpackJsonp([41],{"./node_modules/json-loader/index.js!./.cache/json/graphql-scala-6-interfaces.json":function(a,e){a.exports={pathContext:{slug:"/graphql-scala/6-interfaces/"}}}});
+//# sourceMappingURL=path---graphql-scala-6-interfaces-b25c12dfab4b844c2496.js.map

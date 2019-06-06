@@ -1,0 +1,2 @@
+webpackJsonp([22],{"./node_modules/json-loader/index.js!./.cache/json/react-relay-3-mutations-creating-links.json":function(n,e){n.exports={pathContext:{slug:"/react-relay/3-mutations-creating-links/"}}}});
+//# sourceMappingURL=path---react-relay-3-mutations-creating-links-a3598edf93fdc0a19d2b.js.map

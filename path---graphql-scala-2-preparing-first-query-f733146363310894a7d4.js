@@ -1,0 +1,2 @@
+webpackJsonp([45],{"./node_modules/json-loader/index.js!./.cache/json/graphql-scala-2-preparing-first-query.json":function(a,e){a.exports={pathContext:{slug:"/graphql-scala/2-preparing-first-query/"}}}});
+//# sourceMappingURL=path---graphql-scala-2-preparing-first-query-f733146363310894a7d4.js.map

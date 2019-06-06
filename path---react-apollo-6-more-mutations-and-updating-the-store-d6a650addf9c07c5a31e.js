@@ -1,0 +1,2 @@
+webpackJsonp([29],{"./node_modules/json-loader/index.js!./.cache/json/react-apollo-6-more-mutations-and-updating-the-store.json":function(o,t){o.exports={pathContext:{slug:"/react-apollo/6-more-mutations-and-updating-the-store/"}}}});
+//# sourceMappingURL=path---react-apollo-6-more-mutations-and-updating-the-store-d6a650addf9c07c5a31e.js.map

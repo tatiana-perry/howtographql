@@ -1,0 +1,2 @@
+webpackJsonp([99],{"./node_modules/json-loader/index.js!./.cache/json/ember-apollo-6-more-mutations-and-updating-the-store.json":function(o,e){o.exports={pathContext:{slug:"/ember-apollo/6-more-mutations-and-updating-the-store/"}}}});
+//# sourceMappingURL=path---ember-apollo-6-more-mutations-and-updating-the-store-6f6fdf54e216b934850e.js.map

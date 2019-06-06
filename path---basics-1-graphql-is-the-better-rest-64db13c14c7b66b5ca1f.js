@@ -1,0 +1,2 @@
+webpackJsonp([109],{"./node_modules/json-loader/index.js!./.cache/json/basics-1-graphql-is-the-better-rest.json":function(e,s){e.exports={pathContext:{slug:"/basics/1-graphql-is-the-better-rest/"}}}});
+//# sourceMappingURL=path---basics-1-graphql-is-the-better-rest-64db13c14c7b66b5ca1f.js.map

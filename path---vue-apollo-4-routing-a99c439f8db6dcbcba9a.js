@@ -1,0 +1,2 @@
+webpackJsonp([8],{"./node_modules/json-loader/index.js!./.cache/json/vue-apollo-4-routing.json":function(o,n){o.exports={pathContext:{slug:"/vue-apollo/4-routing/"}}}});
+//# sourceMappingURL=path---vue-apollo-4-routing-a99c439f8db6dcbcba9a.js.map

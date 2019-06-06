@@ -1,0 +1,2 @@
+webpackJsonp([88],{"./node_modules/json-loader/index.js!./.cache/json/graphql-java-11-alternative-approaches.json":function(a,e){a.exports={pathContext:{slug:"/graphql-java/11-alternative-approaches/"}}}});
+//# sourceMappingURL=path---graphql-java-11-alternative-approaches-657af7f48a11aeabf216.js.map

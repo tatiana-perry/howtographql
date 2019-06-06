@@ -1,0 +1,2 @@
+webpackJsonp([9],{"./node_modules/json-loader/index.js!./.cache/json/vue-apollo-3-mutations-creating-links.json":function(o,n){o.exports={pathContext:{slug:"/vue-apollo/3-mutations-creating-links/"}}}});
+//# sourceMappingURL=path---vue-apollo-3-mutations-creating-links-714240920c93c37ead00.js.map

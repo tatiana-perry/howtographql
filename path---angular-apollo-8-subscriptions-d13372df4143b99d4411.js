@@ -1,0 +1,2 @@
+webpackJsonp([112],{"./node_modules/json-loader/index.js!./.cache/json/angular-apollo-8-subscriptions.json":function(o,s){o.exports={pathContext:{slug:"/angular-apollo/8-subscriptions/"}}}});
+//# sourceMappingURL=path---angular-apollo-8-subscriptions-d13372df4143b99d4411.js.map

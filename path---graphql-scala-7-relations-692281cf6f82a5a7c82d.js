@@ -1,0 +1,2 @@
+webpackJsonp([40],{"./node_modules/json-loader/index.js!./.cache/json/graphql-scala-7-relations.json":function(a,o){a.exports={pathContext:{slug:"/graphql-scala/7-relations/"}}}});
+//# sourceMappingURL=path---graphql-scala-7-relations-692281cf6f82a5a7c82d.js.map

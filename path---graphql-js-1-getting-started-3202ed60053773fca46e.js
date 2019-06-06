@@ -1,0 +1,2 @@
+webpackJsonp([77],{"./node_modules/json-loader/index.js!./.cache/json/graphql-js-1-getting-started.json":function(t,e){t.exports={pathContext:{slug:"/graphql-js/1-getting-started/"}}}});
+//# sourceMappingURL=path---graphql-js-1-getting-started-3202ed60053773fca46e.js.map

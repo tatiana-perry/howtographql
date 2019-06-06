@@ -1,0 +1,2 @@
+webpackJsonp([21],{"./node_modules/json-loader/index.js!./.cache/json/react-relay-4-routing.json":function(e,o){e.exports={pathContext:{slug:"/react-relay/4-routing/"}}}});
+//# sourceMappingURL=path---react-relay-4-routing-257fac72e7f1c1e9650d.js.map

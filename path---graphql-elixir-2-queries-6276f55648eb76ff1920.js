@@ -1,0 +1,2 @@
+webpackJsonp([94],{"./node_modules/json-loader/index.js!./.cache/json/graphql-elixir-2-queries.json":function(e,o){e.exports={pathContext:{slug:"/graphql-elixir/2-queries/"}}}});
+//# sourceMappingURL=path---graphql-elixir-2-queries-6276f55648eb76ff1920.js.map

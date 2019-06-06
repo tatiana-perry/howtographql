@@ -1,0 +1,2 @@
+webpackJsonp([24],{"./node_modules/json-loader/index.js!./.cache/json/react-relay-1-getting-started.json":function(e,t){e.exports={pathContext:{slug:"/react-relay/1-getting-started/"}}}});
+//# sourceMappingURL=path---react-relay-1-getting-started-5e3e727490747ef108e2.js.map

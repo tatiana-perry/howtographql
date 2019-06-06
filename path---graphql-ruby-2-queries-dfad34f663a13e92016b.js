@@ -1,0 +1,2 @@
+webpackJsonp([55],{"./node_modules/json-loader/index.js!./.cache/json/graphql-ruby-2-queries.json":function(e,o){e.exports={pathContext:{slug:"/graphql-ruby/2-queries/"}}}});
+//# sourceMappingURL=path---graphql-ruby-2-queries-dfad34f663a13e92016b.js.map

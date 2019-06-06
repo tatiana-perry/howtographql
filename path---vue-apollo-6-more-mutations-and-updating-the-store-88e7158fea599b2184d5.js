@@ -1,0 +1,2 @@
+webpackJsonp([6],{"./node_modules/json-loader/index.js!./.cache/json/vue-apollo-6-more-mutations-and-updating-the-store.json":function(o,e){o.exports={pathContext:{slug:"/vue-apollo/6-more-mutations-and-updating-the-store/"}}}});
+//# sourceMappingURL=path---vue-apollo-6-more-mutations-and-updating-the-store-88e7158fea599b2184d5.js.map

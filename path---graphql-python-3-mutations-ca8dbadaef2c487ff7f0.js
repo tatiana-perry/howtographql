@@ -1,0 +1,2 @@
+webpackJsonp([64],{"./node_modules/json-loader/index.js!./.cache/json/graphql-python-3-mutations.json":function(o,n){o.exports={pathContext:{slug:"/graphql-python/3-mutations/"}}}});
+//# sourceMappingURL=path---graphql-python-3-mutations-ca8dbadaef2c487ff7f0.js.map

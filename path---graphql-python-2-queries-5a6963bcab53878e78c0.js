@@ -1,0 +1,2 @@
+webpackJsonp([65],{"./node_modules/json-loader/index.js!./.cache/json/graphql-python-2-queries.json":function(e,o){e.exports={pathContext:{slug:"/graphql-python/2-queries/"}}}});
+//# sourceMappingURL=path---graphql-python-2-queries-5a6963bcab53878e78c0.js.map

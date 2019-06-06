@@ -1,0 +1,2 @@
+webpackJsonp([32],{"./node_modules/json-loader/index.js!./.cache/json/react-apollo-3-mutations-creating-links.json":function(o,n){o.exports={pathContext:{slug:"/react-apollo/3-mutations-creating-links/"}}}});
+//# sourceMappingURL=path---react-apollo-3-mutations-creating-links-54843ac8d1101e4f6c43.js.map

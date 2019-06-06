@@ -1,0 +1,2 @@
+webpackJsonp([19],{"./node_modules/json-loader/index.js!./.cache/json/react-relay-6-more-mutations-and-updating-the-store.json":function(e,t){e.exports={pathContext:{slug:"/react-relay/6-more-mutations-and-updating-the-store/"}}}});
+//# sourceMappingURL=path---react-relay-6-more-mutations-and-updating-the-store-07e48a6f29095613149c.js.map

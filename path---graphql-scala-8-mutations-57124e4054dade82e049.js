@@ -1,0 +1,2 @@
+webpackJsonp([39],{"./node_modules/json-loader/index.js!./.cache/json/graphql-scala-8-mutations.json":function(a,o){a.exports={pathContext:{slug:"/graphql-scala/8-mutations/"}}}});
+//# sourceMappingURL=path---graphql-scala-8-mutations-57124e4054dade82e049.js.map

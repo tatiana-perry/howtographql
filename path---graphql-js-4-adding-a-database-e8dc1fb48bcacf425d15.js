@@ -1,0 +1,2 @@
+webpackJsonp([74],{"./node_modules/json-loader/index.js!./.cache/json/graphql-js-4-adding-a-database.json":function(a,s){a.exports={pathContext:{slug:"/graphql-js/4-adding-a-database/"}}}});
+//# sourceMappingURL=path---graphql-js-4-adding-a-database-e8dc1fb48bcacf425d15.js.map
